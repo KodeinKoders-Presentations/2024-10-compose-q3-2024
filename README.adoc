@@ -1,0 +1,9 @@
+= State of Compose Multiplatform (Q3 2024)
+:author: Salomon BRYS
+
+[.lead]
+http://p.kodein.net/compose-q3-2024
+
+By: {author}.
+
+// * http://youtu.be/code[date: event name]
